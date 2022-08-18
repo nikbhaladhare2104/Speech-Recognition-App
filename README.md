@@ -1,1 +1,1 @@
-# Note-taking-app-using-speech-recognition
+# Notetaking-app-using-speech-recognition
