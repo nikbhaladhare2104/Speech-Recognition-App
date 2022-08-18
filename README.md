@@ -1,4 +1,4 @@
-# Notetaking-app-with-speech-recognition
+# Speech-recognition App
 Installation
 
 
