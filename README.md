@@ -3,6 +3,7 @@
 Installation :
 
 $ brew install portaudio
+
 $ pip install pyobjc
 
 Then use these commands:
